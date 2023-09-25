@@ -83,13 +83,10 @@ const generateMarkdown = (answers) =>
 
 ## Description
 
-${answers.motivation}
-
-${answers.why}
-
-${answers.problem}
-
-${answers.learn}
+- ${answers.motivation}
+- ${answers.why}
+- ${answers.problem}
+- ${answers.learn}
 
 ## Table of Contents
 
